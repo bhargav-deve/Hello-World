@@ -1,16 +1,16 @@
 // Addition of two numbers
-function addNumbers(num1, num2) {
-  return num1 + num2;
+function addNumbers(num1, num3) {
+  return num1 + num3;
 }
 
 // Multiplication of two numbers
-function multiplyNumbers(num1, num2) {
-  return num1 * num2;
+function multiplyNumbers(num1, num3) {
+  return num1 * num3;
 }
 
 // Deletion of two numbers
-function deleteNumbers(num1, num2) {
-  return num1 - num2;
+function deleteNumbers(num1, num3) {
+  return num1 - num3;
 }
 
 // Example usage
